@@ -1,5 +1,7 @@
 # Byhiras tech test
 
+![Screenshot](https://github.com/nickheal/react-journey/blob/master/docs/screenshot.gif?raw=true)
+
 I bootstrapped this project with with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Running the project
@@ -28,7 +30,7 @@ This text color over the background almost certainly doesn't meet WCAG AA access
 
 Tested in Chrome & Firefox. I'm not sure if the text gradient will work in IE 11.
 
-This is built mobile first, but the text does get a bit small.
+This is built mobile first, but the layout could probably be rethought for mobile so that the text could be bumped up a bit in size.
 
 ### State management
 
