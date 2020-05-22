@@ -1,6 +1,6 @@
-# Byhiras tech test
+# BATTLE SIMULATOR
 
-![Screenshot](https://github.com/nickheal/react-journey/blob/master/docs/screenshot.gif?raw=true)
+![Screenshot](https://github.com/nickheal/battle-simulator/blob/master/docs/screenshot.gif?raw=true)
 
 I bootstrapped this project with with [Create React App](https://github.com/facebook/create-react-app).
 
